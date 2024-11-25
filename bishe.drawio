@@ -10,17 +10,17 @@
         <mxCell id="CtAeQ6REewKPr4FrTqDI-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="290" width="560" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="CtAeQ6REewKPr4FrTqDI-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="590" width="560" height="150" as="geometry" />
+        <mxCell id="CtAeQ6REewKPr4FrTqDI-4" value="实验验证补全最终点云的完整性，以及生成Target Point Cloud点云的合理性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="530" width="560" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CtAeQ6REewKPr4FrTqDI-14" value="准备阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="212.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="200" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CtAeQ6REewKPr4FrTqDI-15" value="研究阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="200" y="290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CtAeQ6REewKPr4FrTqDI-16" value="实现阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="660" width="60" height="30" as="geometry" />
+        <mxCell id="CtAeQ6REewKPr4FrTqDI-16" value="验证阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CtAeQ6REewKPr4FrTqDI-17" value="文献收集、阅读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="326" y="210" width="176" height="35" as="geometry" />
@@ -52,16 +52,16 @@
         <mxCell id="CtAeQ6REewKPr4FrTqDI-31" value="提升恢复精度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="622" y="342.5" width="110" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="CtAeQ6REewKPr4FrTqDI-32" value="选择点云处理模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CtAeQ6REewKPr4FrTqDI-32" value="KNN分类点云" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="503" y="413" width="110" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="CtAeQ6REewKPr4FrTqDI-33" value="查找相关补全恢复全局特征模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CtAeQ6REewKPr4FrTqDI-33" value="查找点云分组处理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="503" y="455" width="110" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="CtAeQ6REewKPr4FrTqDI-34" value="恢复最终点云&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%9F%A5%E6%89%BE%E7%9B%B8%E5%85%B3%E8%A1%A5%E5%85%A8%E6%81%A2%E5%A4%8D%E5%85%A8%E5%B1%80%E7%89%B9%E5%BE%81%E6%A8%A1%E5%9D%97%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22530%22%20y%3D%22340%22%20width%3D%22110%22%20height%3D%2232%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CtAeQ6REewKPr4FrTqDI-34" value="融合最终点云&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%9F%A5%E6%89%BE%E7%9B%B8%E5%85%B3%E8%A1%A5%E5%85%A8%E6%81%A2%E5%A4%8D%E5%85%A8%E5%B1%80%E7%89%B9%E5%BE%81%E6%A8%A1%E5%9D%97%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22530%22%20y%3D%22340%22%20width%3D%22110%22%20height%3D%2232%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="623" y="413" width="110" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="CtAeQ6REewKPr4FrTqDI-35" value="提升恢复精度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CtAeQ6REewKPr4FrTqDI-35" value="提高模型效率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="623" y="455" width="110" height="32" as="geometry" />
         </mxCell>
       </root>
