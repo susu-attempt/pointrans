@@ -25,8 +25,8 @@
         <mxCell id="CtAeQ6REewKPr4FrTqDI-17" value="文献收集、阅读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="326" y="240" width="176" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="CtAeQ6REewKPr4FrTqDI-18" value="点云数据预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="240" width="176" height="35" as="geometry" />
+        <mxCell id="CtAeQ6REewKPr4FrTqDI-18" value="点云数据预处理(ShapeNet数据集)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="240" width="190" height="35" as="geometry" />
         </mxCell>
         <mxCell id="CtAeQ6REewKPr4FrTqDI-21" value="利用处理好的残缺点云恢复完整点云" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="270" y="295" width="220" height="85" as="geometry" />
