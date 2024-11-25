@@ -75,6 +75,40 @@
             <mxPoint x="230" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CtAeQ6REewKPr4FrTqDI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CtAeQ6REewKPr4FrTqDI-39" target="CtAeQ6REewKPr4FrTqDI-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CtAeQ6REewKPr4FrTqDI-39" value="残缺点云数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="690" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CtAeQ6REewKPr4FrTqDI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CtAeQ6REewKPr4FrTqDI-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtAeQ6REewKPr4FrTqDI-41" value="Diffusion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CtAeQ6REewKPr4FrTqDI-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CtAeQ6REewKPr4FrTqDI-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtAeQ6REewKPr4FrTqDI-45" value="补全数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="690" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CtAeQ6REewKPr4FrTqDI-47" value="Content Point" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="770" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CtAeQ6REewKPr4FrTqDI-48" value="Style Point" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="770" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CtAeQ6REewKPr4FrTqDI-49" value="Target Point" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="900" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CtAeQ6REewKPr4FrTqDI-50" value="Mamba Diffusion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
