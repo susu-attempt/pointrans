@@ -219,6 +219,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="FmmJw0isQTgDnG6v0y5L-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=0.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;endSize=2;" edge="1" parent="1" source="N8IbI7UAPQpDWKxhwLyq-28" target="FmmJw0isQTgDnG6v0y5L-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="700" />
+              <mxPoint x="468" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="N8IbI7UAPQpDWKxhwLyq-28" value="pretrain-scpnet" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="358.04" y="759.5" width="92.07" height="40" as="geometry" />
         </mxCell>
@@ -373,6 +381,24 @@
         </mxCell>
         <mxCell id="FmmJw0isQTgDnG6v0y5L-54" value="知识蒸馏" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="631.91" y="782.5" width="10" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="FmmJw0isQTgDnG6v0y5L-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=0.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startSize=4;endArrow=blockThin;endFill=1;endSize=4;" edge="1" parent="1" target="N8IbI7UAPQpDWKxhwLyq-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="532" y="690" as="sourcePoint" />
+            <mxPoint x="605.0290600000001" y="694.66" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="605" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FmmJw0isQTgDnG6v0y5L-64" value="边界感知3D卷积" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="468" y="680" width="64" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FmmJw0isQTgDnG6v0y5L-65" value="3D Unet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Times New Roman;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="490" y="739.5" width="86" height="10.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FmmJw0isQTgDnG6v0y5L-74" value="边界loss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=7;fontColor=default;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="534" y="680" width="60" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
