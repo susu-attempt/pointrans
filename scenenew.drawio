@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HM3qgklekqbhhOEVm5Rd-81" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;dashed=1;fontFamily=Times New Roman;dashPattern=12 12;glass=1;shadow=0;fillColor=light-dark(#e4ecec, #1a1a1a);fontColor=#333333;strokeColor=light-dark(#e5ecec, #959595);fontStyle=2" vertex="1" parent="1">
+        <mxCell id="HM3qgklekqbhhOEVm5Rd-81" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.3;dashed=1;fontFamily=Times New Roman;dashPattern=12 12;glass=1;shadow=0;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="280" y="399.38" width="180" height="70.63" as="geometry" />
         </mxCell>
-        <mxCell id="HM3qgklekqbhhOEVm5Rd-59" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.5;dashed=1;fontFamily=Times New Roman;fillColor=light-dark(#ecf6fd, #281d00);strokeColor=light-dark(#e7f6fd, #6d5100);fontStyle=2" vertex="1" parent="1">
+        <mxCell id="HM3qgklekqbhhOEVm5Rd-59" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.2;dashed=1;fontFamily=Times New Roman;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="281" y="327" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HM3qgklekqbhhOEVm5Rd-55" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;strokeWidth=0.5;dashed=1;fillColor=light-dark(#d7e6f9, #36210a);strokeColor=light-dark(#ddf3ef, #ededed);fontFamily=Times New Roman;fillStyle=auto;fontStyle=2" vertex="1" parent="1">
