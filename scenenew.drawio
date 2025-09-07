@@ -570,7 +570,7 @@
           <mxGeometry x="347.07" y="558.78" width="50" height="7" as="geometry" />
         </mxCell>
         <mxCell id="HM3qgklekqbhhOEVm5Rd-221" value="BEV Unet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=5;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="260.07" y="527.69" width="35.93" height="24.28" as="geometry" />
+          <mxGeometry x="260.07" y="528.69" width="35.93" height="24.28" as="geometry" />
         </mxCell>
         <mxCell id="HM3qgklekqbhhOEVm5Rd-222" value="3D Encoder" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fontFamily=Times New Roman;strokeWidth=0.3;fontSize=5;fillColor=#eeeeee;strokeColor=#36393d;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="256.07" y="612.3799999999999" width="30" height="16.74" as="geometry" />
@@ -671,7 +671,7 @@
         <mxCell id="HM3qgklekqbhhOEVm5Rd-245" value="&lt;font style=&quot;font-size: 3px;&quot;&gt;$$3\times3\times3Conv3d$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.2;rotation=90;container=0;fontFamily=Times New Roman;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="459.4606021855383" y="626.31" width="33.74099046733319" height="5.01" as="geometry" />
         </mxCell>
-        <mxCell id="HM3qgklekqbhhOEVm5Rd-246" value="&lt;font style=&quot;font-size: 3px;&quot;&gt;$$3\times3\times3Conv3d$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.2;rotation=90;container=0;fontFamily=Times New Roman;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="HM3qgklekqbhhOEVm5Rd-246" value="&lt;font style=&quot;font-size: 3px;&quot;&gt;$$5\times5\times5Conv3d$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.2;rotation=90;container=0;fontFamily=Times New Roman;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="448.30040688212046" y="626.31" width="33.74099046733319" height="5.01" as="geometry" />
         </mxCell>
         <mxCell id="HM3qgklekqbhhOEVm5Rd-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.557;entryY=1.018;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=0.2;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;endSize=1;entryPerimeter=0;fontStyle=2" edge="1" parent="1" source="HM3qgklekqbhhOEVm5Rd-248" target="HM3qgklekqbhhOEVm5Rd-254">
@@ -683,7 +683,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HM3qgklekqbhhOEVm5Rd-248" value="&lt;font style=&quot;font-size: 3px;&quot;&gt;$$3\times3\times3Conv3d$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.2;rotation=90;container=0;fontFamily=Times New Roman;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="HM3qgklekqbhhOEVm5Rd-248" value="&lt;font style=&quot;font-size: 3px;&quot;&gt;$$7\times7\times7Conv3d$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.2;rotation=90;container=0;fontFamily=Times New Roman;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="438.07022785398743" y="626.31" width="33.74099046733319" height="5.01" as="geometry" />
         </mxCell>
         <mxCell id="HM3qgklekqbhhOEVm5Rd-249" value="&lt;font&gt;Relu&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.2;fontSize=4;container=0;rotation=90;fontFamily=Times New Roman;fontStyle=2" vertex="1" parent="1">
