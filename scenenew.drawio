@@ -566,7 +566,7 @@
         <mxCell id="HM3qgklekqbhhOEVm5Rd-219" value="Bev Encoder" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;strokeWidth=0.3;fontSize=6;fontFamily=Times New Roman;fillColor=light-dark(#dae5f8, #173d4d);strokeColor=#10739e;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="255.07000000000002" y="555.76" width="26.3" height="13.04" as="geometry" />
         </mxCell>
-        <mxCell id="HM3qgklekqbhhOEVm5Rd-220" value="&lt;span style=&quot;font-size: 5px;&quot;&gt;(256, 236, C)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;flipH=0;fontFamily=Times New Roman;strokeWidth=0.3;fontSize=7;strokeColor=#36393d;fontStyle=2;fillColor=#cce5ff;" vertex="1" parent="1">
+        <mxCell id="HM3qgklekqbhhOEVm5Rd-220" value="&lt;span style=&quot;font-size: 5px;&quot;&gt;(256, 256, C)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;flipH=0;fontFamily=Times New Roman;strokeWidth=0.3;fontSize=7;strokeColor=#36393d;fontStyle=2;fillColor=#cce5ff;" vertex="1" parent="1">
           <mxGeometry x="347.07" y="558.78" width="50" height="7" as="geometry" />
         </mxCell>
         <mxCell id="HM3qgklekqbhhOEVm5Rd-221" value="BEV Unet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=5;fontStyle=3" vertex="1" parent="1">
