@@ -494,7 +494,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HM3qgklekqbhhOEVm5Rd-199" value="Pooling" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=5;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="HM3qgklekqbhhOEVm5Rd-198">
+        <mxCell id="HM3qgklekqbhhOEVm5Rd-199" value="Pooling" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=4;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="HM3qgklekqbhhOEVm5Rd-198">
           <mxGeometry x="0.26" y="1" relative="1" as="geometry">
             <mxPoint y="10" as="offset" />
           </mxGeometry>
@@ -595,20 +595,20 @@
         </mxCell>
         <mxCell id="HM3qgklekqbhhOEVm5Rd-229" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.5;fontFamily=Times New Roman;fontStyle=2" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310.07" y="662.6700000000001" as="sourcePoint" />
-            <mxPoint x="431.07" y="662.6700000000001" as="targetPoint" />
+            <mxPoint x="310.07" y="663.6700000000001" as="sourcePoint" />
+            <mxPoint x="431.07" y="663.6700000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HM3qgklekqbhhOEVm5Rd-230" value="Multi-Scale Semantic Scene Completion" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=5;fontFamily=Times New Roman;labelBackgroundColor=light-dark(#e5ecec, #ededed);fontStyle=2" vertex="1" connectable="0" parent="HM3qgklekqbhhOEVm5Rd-229">
           <mxGeometry x="0.0619" relative="1" as="geometry">
-            <mxPoint y="4" as="offset" />
+            <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HM3qgklekqbhhOEVm5Rd-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=0.5;endArrow=block;endFill=1;endSize=2;fontFamily=Times New Roman;fontStyle=2" edge="1" parent="1" source="HM3qgklekqbhhOEVm5Rd-200" target="HM3qgklekqbhhOEVm5Rd-195">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HM3qgklekqbhhOEVm5Rd-232" value="Voxel feature" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=4;fontFamily=Times New Roman;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="224.07000000000002" y="630.1199999999999" width="40" height="18" as="geometry" />
+        <mxCell id="HM3qgklekqbhhOEVm5Rd-232" value="Voxel feature" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=5;fontFamily=Times New Roman;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="221.07000000000002" y="629.1199999999999" width="46" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HM3qgklekqbhhOEVm5Rd-233" value="Scene&lt;div&gt;Completion&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=5;fontStyle=3" vertex="1" parent="1">
           <mxGeometry x="260.07" y="641.6800000000001" width="35.93" height="24.28" as="geometry" />
