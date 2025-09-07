@@ -478,7 +478,7 @@
           <mxGeometry x="472.43" y="388.99" width="30.39" height="5.67" as="geometry" />
         </mxCell>
         <mxCell id="HM3qgklekqbhhOEVm5Rd-195" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;dashed=1;fontFamily=Times New Roman;dashPattern=12 12;glass=1;shadow=0;fillColor=light-dark(#e4ecec, #1a1a1a);fontColor=#333333;strokeColor=light-dark(#e5ecec, #959595);fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="259.07" y="600.9300000000001" width="180" height="70.63" as="geometry" />
+          <mxGeometry x="260.07" y="600.9300000000001" width="180" height="70.63" as="geometry" />
         </mxCell>
         <mxCell id="HM3qgklekqbhhOEVm5Rd-196" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.5;dashed=1;fontFamily=Times New Roman;fillColor=light-dark(#ecf6fd, #281d00);strokeColor=light-dark(#e7f6fd, #6d5100);fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="260.07" y="528.55" width="180" height="70" as="geometry" />
@@ -500,7 +500,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HM3qgklekqbhhOEVm5Rd-200" value="Pre-trained Point Cloud Encoder" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;rotation=90;strokeWidth=0.2;fontSize=5;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="199.26500000000004" y="627.8" width="45.41" height="16.25" as="geometry" />
+          <mxGeometry x="199.26500000000004" y="628.1200000000001" width="45.41" height="16.25" as="geometry" />
         </mxCell>
         <mxCell id="HM3qgklekqbhhOEVm5Rd-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=0.3;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;endSize=2;fontStyle=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HM3qgklekqbhhOEVm5Rd-282" target="HM3qgklekqbhhOEVm5Rd-200">
           <mxGeometry relative="1" as="geometry">
